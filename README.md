@@ -1,3 +1,16 @@
+----------------------------------------------------------------------
+This project is to create contact list - you can add
+1- Name
+2- Email
+3- Image
+
+ReactJS and React Router has been used to complete this project
+
+To run this project you'll also need a server.
+I'll upload the server pretty soon
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
